@@ -14,7 +14,7 @@ Applications to showcase basic Azure capabilities
 
 * Authentication (login/logout) with AD
 * Data access with Microsoft Graph
-* Consume an API from a custim service (see below)
+* Consume an API from a custom service (see below)
 
 ### Use:
 
