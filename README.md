@@ -9,6 +9,7 @@ Applications to showcase basic Azure capabilities
 2. Create new Active Directory (AD) tenant
 3. Register new SPA application
 4. Get app source code here or follow the [tutorial](https://learn.microsoft.com/en-us/azure/active-directory/develop/single-page-app-tutorial-01-register-app)
+5. Update app, tenant and service IDs in [.env](https://github.com/leoz/AzureExperiment/blob/main/reactspalocal/.env) file
 
 ### Implements:
 
@@ -31,6 +32,7 @@ npm start
 2. Create new Active Directory (AD) tenant
 3. Register new Web application
 4. Get app source code here or follow the [tutorial](https://learn.microsoft.com/en-us/azure/active-directory/develop/web-api-tutorial-01-register-app)
+5. Update app and tenant IDs in [appsettings.json](https://github.com/leoz/AzureExperiment/blob/main/webapilocal/appsettings.json) file
 
 ### Implements:
 
