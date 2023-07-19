@@ -78,5 +78,5 @@ export const graphConfig = {
 };
 
 export const serviceConfig = {
-    endpoint: "http://localhost:5226/weatherforecast",
+    endpoint: "http://localhost:5235/weatherforecast",
 };
